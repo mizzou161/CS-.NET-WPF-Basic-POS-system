@@ -1,0 +1,17 @@
+5/1/2018 12:40:06 PM
+
+Receipt# 1
+
+Ribeye Steak 14.99
+
+Ribeye Steak 14.99
+
+Chicken Sandwich 10.99
+
+Chicken Sandwich 10.99
+
+Soup and Salad 7.99
+
+Subtotal: 59.95
+Tax: 6
+Total: 65.95

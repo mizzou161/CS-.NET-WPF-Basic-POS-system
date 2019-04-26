@@ -1,0 +1,25 @@
+5/1/2018 12:40:47 PM
+
+Receipt# 3
+
+Soup and Salad 7.99
+
+Soup and Salad 7.99
+
+Soup and Salad 7.99
+
+Soup and Salad 7.99
+
+Chicken Sandwich 10.99
+
+Ribeye Steak 14.99
+
+Chicken Caesar Salad 10.99
+
+Grillen Chicken 10.99
+
+Grilled Salmon 14.99
+
+Subtotal: 94.91
+Tax: 9.49
+Total: 104.4

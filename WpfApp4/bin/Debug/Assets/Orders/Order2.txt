@@ -1,0 +1,21 @@
+5/1/2018 12:40:17 PM
+
+Receipt# 2
+
+Grillen Chicken 10.99
+
+Grilled Salmon 14.99
+
+Chicken Caesar Salad 10.99
+
+Ribeye Steak 14.99
+
+Chicken Sandwich 10.99
+
+Soup and Salad 7.99
+
+Chicken Fingers 10.99
+
+Subtotal: 81.93
+Tax: 8.19
+Total: 90.12

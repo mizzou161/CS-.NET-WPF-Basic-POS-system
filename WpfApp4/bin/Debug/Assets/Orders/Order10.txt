@@ -1,0 +1,11 @@
+5/7/2018 9:25:34 PM
+
+Receipt# 10
+
+Chicken Fingers 10.99
+
+Ribeye Steak 14.99
+Medium Rare
+Subtotal: 25.98
+Tax: 2.6
+Total: 28.58

@@ -1,0 +1,13 @@
+5/7/2018 9:39:27 PM
+
+Receipt# 11
+
+Chicken Fingers 10.99
+
+Ribeye Steak 14.99
+Medium Rare
+Grilled Salmon 14.99
+
+Subtotal: 40.97
+Tax: 4.1
+Total: 45.07

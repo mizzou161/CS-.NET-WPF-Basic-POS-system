@@ -1,0 +1,19 @@
+4/26/2019 4:22:07 PM
+
+Receipt# 12
+
+Chicken Fingers 10.99
+
+Soup and Salad 7.99
+
+Chicken Sandwich 10.99
+
+Ribeye Steak 14.99
+
+Chicken Caesar Salad 10.99
+
+Chicken Caesar Salad 10.99
+no croutons
+Subtotal: 66.94
+Tax: 6.69
+Total: 73.63

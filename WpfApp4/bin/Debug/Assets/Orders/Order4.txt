@@ -1,0 +1,21 @@
+5/1/2018 12:45:34 PM
+
+Receipt# 4
+
+Chicken Caesar Salad 10.99
+
+Chicken Caesar Salad 10.99
+
+Soup and Salad 7.99
+
+Ribeye Steak 14.99
+
+Grillen Chicken 10.99
+
+Cheese Burger 9.99
+
+Chicken Fingers 10.99
+
+Subtotal: 76.93
+Tax: 7.69
+Total: 84.62

@@ -1,0 +1,29 @@
+5/1/2018 12:53:40 PM
+
+Receipt# 7
+
+Chicken Sandwich 10.99
+
+Soup and Salad 7.99
+
+Chicken Caesar Salad 10.99
+
+Soup and Salad 7.99
+
+Soup and Salad 7.99
+
+Chicken Caesar Salad 10.99
+
+Chicken Caesar Salad 10.99
+
+Chicken Caesar Salad 10.99
+
+Grilled Salmon 14.99
+
+Chicken Fingers 10.99
+
+Chicken Sandwich 10.99
+
+Subtotal: 115.89
+Tax: 11.59
+Total: 127.48
